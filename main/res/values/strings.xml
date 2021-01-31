@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab8app</string>
+    <string name="login">Login</string>
+    <string name="reset">Reset</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="pass">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="feat">Feature</string>
+</resources>
